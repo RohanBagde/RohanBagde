@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohanBagde
-- Working as a software engineer
+- ✨ Working as a software engineer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on Qualcomm.in
